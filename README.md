@@ -1,2 +1,3 @@
 # sentiment-analysis-chatbot
 A machine learning-based sentiment analysis chatbot that classifies user text as positive, negative, or neutral using NLP techniques and Logistic Regression.
+This project focuses on making chatbot interactions more human and understanding. Instead of giving the same response to every user, the chatbot first analyzes the sentiment behind a message and then responds accordingly.The chatbot can identify whether a user's message expresses a positive, negative, or neutral sentiment. Based on the detected sentiment, it generates a suitable response. This helps create a better user experience and makes conversations feel more natural.
