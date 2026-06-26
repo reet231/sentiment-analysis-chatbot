@@ -1,0 +1,11 @@
+text,sentiment
+I love this product,positive
+This service is amazing,positive
+Thank you for your help,positive
+What are your working hours,neutral
+Can you provide details,neutral
+I need information about my order,neutral
+I am disappointed with the service,negative
+Nobody responded to my complaint,negative
+This is the worst experience ever,negative
+I am very frustrated,negative
